@@ -9,17 +9,17 @@
 
 **Welcome to my page!!**
 
-I decided to make this webpage to serve as somewhat of a personal collage. 
-I hope that, over time, I can populate this page with all the things I like, my random thoughts, and anything else that might not be appropriate to put on a professional website.
-Web development is not my strong suite, so maybe this will take a while. But anyways, thanks for visiting my site! Feel free to look around. My interests are the best interests.
+This website is a personal project of mine.
+I would like to create a space on the internet that encapsulates as much about me as possible, sort of like a collage.
+My plan is that, over time, I can populate this page with all the things I like, my random thoughts, and anything else that might not be appropriate to put on a professional website.
+Ironically, this will be hosted on the same Github I use to post research projects for professional development. 
+If you found this website, welcome!! I probably won't be advertising this. 
+This will just be a little easter egg for those who care enough to look.
 
 I've been on the internet since I was 7. 
-A lot of my online friends back then were much older and had cool websites. 
-Unfortunately, I wasn't able to make my own. Plus, I lost contact with a lot of them. 
-Their glittery, flashing websites sit at the back of my mind all the time!! 
-So now, years later, I've impulsively decided I wanted to make my own. 
-Those older kids probably don't even remember me anymore--they might be 35 now, actually. 
-Anyways, I saw somewhere on Twitter (sorry, I am still not calling it X) that each person is a mosaic of all the people they loved. 
-I hope that this website can be a repersentation of that mosaic for me. 
+A lot of my online friends back then were much older and had cool, vintange-looking websites. 
+To me, their websites were the ultimate form of free self expression.
+Unfortunately, I wasn't able to make my own at the time, and lost contact with all of those people. 
+They should be at least 35 now---I hope I can reconnect with them one day. 
 
 This page is still under construction, tho. :)) More to come in the future.
